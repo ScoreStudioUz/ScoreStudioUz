@@ -6,7 +6,7 @@
 
 <br/>
 
-[![Сайт](https://img.shields.io/badge/🌐_Сайт-scorestudio.alwaysdata.net-1a7a4a?style=for-the-badge)](https://scorestudio.alwaysdata.net)
+[![Сайт](https://img.shields.io/badge/🌐_Сайт-scorestudio.shop-1a7a4a?style=for-the-badge)](https://scorestudio.shop)
 [![Telegram](https://img.shields.io/badge/✈️_Telegram_Канал-@ScoreStudioUz-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ScoreStudioUz)
 [![YouTube](https://img.shields.io/badge/▶_YouTube-@ScoreStudioUz-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@ScoreStudioUz)
 
@@ -54,7 +54,7 @@
   <a href="https://youtube.com/@ScoreStudioUz">
     <img src="https://img.icons8.com/color/48/youtube-play.png" title="YouTube"/>
   </a>
-  <a href="https://scorestudio.alwaysdata.net">
+  <a href="https://scorestudio.shop">
     <img src="https://img.icons8.com/color/48/domain--v1.png" title="Сайт"/>
   </a>
 </p>
